@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Soumil"]
+	url = https://github.com/eksha-malhotra/Semantic-Aware-Searching-for-encrypted-data-over-Cloud-Computing.git
+	fetch = +refs/heads/*:refs/remotes/Soumil/*
